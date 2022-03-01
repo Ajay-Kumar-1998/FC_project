@@ -1,5 +1,6 @@
 from flashkard.__init__ import create_app
 print("hello world")
+print("HELLO WORLD2")
 if __name__ == "__main__":
     app, api = create_app()
     
